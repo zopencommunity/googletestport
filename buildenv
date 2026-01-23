@@ -1,6 +1,6 @@
 # Update bump details accordingly. Use bump check to confirm.
 # bump: googletest-version /GOOGLETEST_VERSION="(.*)"/ https://github.com/google/googletest.git|semver:*
-# GOOGLETEST_VERSION="1.17.0" # Specify a stable release
+GOOGLETEST_VERSION="1.17.0" # Specify a stable release
 # export ZOPEN_STABLE_TAG="v${GOOGLETEST_VERSION}"
 
 ###
